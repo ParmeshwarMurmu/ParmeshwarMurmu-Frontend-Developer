@@ -15,7 +15,7 @@ export const Home = () => {
         </div>
          
          
-        <div className='bg-black'>
+        <div className='bg-black opacity-100'>
             <IntroductionSection />
         </div>
 
