@@ -6,7 +6,7 @@ import { MdOutlineKeyboardArrowDown } from "react-icons/md";
 export const TopNavbarHeaderSection = () => {
 
     return (
-        <div className='relative'>
+        <div className=''>
             <img className='w-full' src={saviourTopImage} alt="" />
 
             <div>

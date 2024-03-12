@@ -4,7 +4,7 @@ import { Home } from './Main/Home';
 
 function App() {
   return (
-    <div>
+    <div className='bg-black'>
       <Home />
     </div>
   );
